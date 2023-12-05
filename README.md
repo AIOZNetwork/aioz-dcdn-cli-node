@@ -17,7 +17,7 @@ AIOZ dCDN CLI Node is the software to become an AIOZ Node in AIOZ dCDN. AIOZ Nod
 ### Windows
 Download and extract the latest AIOZ dCDN CLI Node. The scripts below are written for Windows PowerShell.
 ```shell
-curl.exe -LO https://github.com/AIOZNetwork/aioz-dcnd-cli-node/files/13559439/aioznode-windows-amd64-1.1.0.zip
+curl.exe -LO https://github.com/AIOZNetwork/aioz-dcdn-cli-node/files/13561213/aioznode-windows-amd64-1.1.0.zip
 Expand-Archive -Path aioznode-windows-amd64-1.1.0.zip -DestinationPath .
 ren aioznode-windows-amd64-1.1.0.exe aioznode.exe
 ```
@@ -64,14 +64,14 @@ Download the latest AIOZ dCDN CLI Node
 
 For macOS
 ```shell
-curl -LO https://github.com/AIOZNetwork/aioz-dcnd-cli-node/files/13559428/aioznode-darwin-amd64-1.1.0.tar.gz
+curl -LO https://github.com/AIOZNetwork/aioz-dcdn-cli-node/files/13561206/aioznode-darwin-amd64-1.1.0.tar.gz
 tar xzf aioznode-darwin-amd64-1.1.0.tar.gz
 mv aioznode-darwin-amd64-1.1.0 aioznode
 ```
 
 For Linux
 ```shell
-curl -LO https://github.com/AIOZNetwork/aioz-dcnd-cli-node/files/13559433/aioznode-linux-amd64-1.1.0.tar.gz
+curl -LO https://github.com/AIOZNetwork/aioz-dcdn-cli-node/files/13561211/aioznode-linux-amd64-1.1.0.tar.gz
 tar xzf aioznode-linux-amd64-1.1.0.tar.gz
 mv aioznode-linux-amd64-1.1.0 aioznode
 ```
